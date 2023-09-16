@@ -6,7 +6,7 @@ Welcome to the website of Trisout
 
 ## Description
 
-This is a website designed for [briefly explain the purpose of your website]. It provides [briefly describe the main features or content of your website].
+This website was created to understand who I am.
 
 ## Technologies Used
 
