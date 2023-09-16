@@ -1,6 +1,6 @@
 # Trisout Website
 
-Welcome to the website of [Your Name or Project Name]!
+Welcome to the website of Trisout
 
 ![Logo](https://i.ibb.co/fF8CWsj/f649622b733e3dce923d792675ec716a.png)
 
